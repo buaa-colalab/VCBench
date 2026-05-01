@@ -147,7 +147,7 @@ If you find this work useful, please consider citing our paper:
 
 ## 📄 License
 
-This project is licensed under [CC BY 4.0](./LICENSE).
+This project is licensed under the [Apache License 2.0](./LICENSE). The dataset (`data/`) is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## 🙏 Acknowledgement
 
